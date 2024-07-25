@@ -1,0 +1,5 @@
+cvzone==1.6.1
+mediapipe==0.10.14
+opencv-python==4.10.0.84
+Flask==3.0.3
+numpy==2.0.1
